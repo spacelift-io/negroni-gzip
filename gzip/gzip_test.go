@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/urfave/negroni"
+	"github.com/urfave/negroni/v3"
 )
 
 const (
